@@ -1,0 +1,32 @@
+git -v
+git config --global user.name "argha5"
+git config --global user.email "arghabiswas209@gmail.com"
+git config --list
+
+
+
+repo create 
+go to project folder
+git init 
+git remote add origin https://github.com/argha5/checking
+git add .
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+
+clone repo
+git clone https://github.com/argha5/checking
+
+creating branch
+git remote -v                                                     tells me which repo I am working
+git branch                                                        tells me which branch I am working
+git checkout -b feature-login                                     create a branch 
+git checkout feature-login                                        switch the branch
+git add .
+git commit -m "my changes on feature-login"
+
+ merging
+git merge 
+git push origin main
+
+
