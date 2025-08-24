@@ -47,5 +47,16 @@ git pull
 git pull origin main
 
 
+git fetch>>>>>>>>>>>>
+git checkout ajker
+git fetch origin
+git log ajker..origin/main
+git merge origin/main
+git add .
+git commit
+git push origin ajker
+
+
+
 
 
