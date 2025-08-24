@@ -42,5 +42,10 @@ git merge feature-dashboard
 git push -u origin combined-branch
 
 
+git pull 
+
+git pull origin main
+
+
 
 
