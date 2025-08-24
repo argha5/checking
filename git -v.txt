@@ -44,7 +44,10 @@ git push -u origin combined-branch
 
 git pull 
 
-git pull origin main
+git pull origin main                    kon branch theke copy kortechi oitar nam
+git push origin newbranch                then push korte hobe
+
+
 
 
 git fetch>>>>>>>>>>>>
