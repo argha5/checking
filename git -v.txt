@@ -61,5 +61,13 @@ git push origin ajker
 
 
 
+delete a branch
+git branch -d branch-name
+git push origin --delete branch-name
+
+
+
+
+
 
 
