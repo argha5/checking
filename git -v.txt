@@ -39,7 +39,7 @@ combine all three into a completely new branch
 git checkout -b combined-branch main
 git merge feature-login
 git merge feature-dashboard
-git push origin combined-branch
+git push -u origin combined-branch
 
 
 
