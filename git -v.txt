@@ -24,6 +24,7 @@ git checkout -b feature-login                                     create a branc
 git checkout feature-login                                        switch the branch
 git add .
 git commit -m "my changes on feature-login"
+git push -u origin feature-login                                  push to feature-login branch
 
  merging
 git merge 
